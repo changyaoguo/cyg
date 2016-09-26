@@ -1,2 +1,2 @@
 # cyg
-linux  server CPIS
+linux  server CPIS Internet
